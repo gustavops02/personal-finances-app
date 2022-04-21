@@ -1,0 +1,7 @@
+{
+  "name": "personal-finances",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gustavo Paulo <gustavo.psilvaa02@gmail.com>",
+  "license": "MIT"
+}
